@@ -1,0 +1,12 @@
+/* estilos-tailwind.css */
+/* Alumno: Clarense Alberto Cruz Hernandez */
+
+/* Transiciones personalizadas */
+.transition {
+    transition: all 0.3s ease;
+}
+
+/* Sombras adicionales */
+.shadow-md:hover {
+    transform: translateY(-4px);
+}
